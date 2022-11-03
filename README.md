@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/56673130/152678726-f833969e-d36b-448f-93f2-522aecdb6a1f.svg" width="100%" height="100px">
+<img src="https://raw.githubusercontent.com/The-FireHub-Project/the-firehub-project.github.io/master/resources/graphics/logo/firehub.svg" width="100%" height="100px">
 
 # FireHub - Offical WebSite
 
