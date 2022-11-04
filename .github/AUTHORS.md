@@ -35,17 +35,6 @@
         </tr>
     </table>
 
-* __Legal__
-    <table>
-        <tr>
-            <td rowspan="2" valign="center" width="80px">❓</td>
-            <td valign="top">Position not filled</td>
-        </tr>
-        <tr>
-            <td valign="top"></td>
-        </tr>
-    </table>
-
 * __Quality Assurance__
     <table>
         <tr>
