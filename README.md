@@ -11,8 +11,8 @@ This repository contains source code of the official FireHub website.
 
 ## Support
 
-[![Percentage of issues still open](http://isitmaintained.com/badge/open/The-FireHub-Project/the-firehub-project.github.io.svg)](http://isitmaintained.com/project/The-FireHub-Project/TheCore "Percentage of issues still open")
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/The-FireHub-Project/the-firehub-project.github.io.svg)](http://isitmaintained.com/project/The-FireHub-Project/TheCore "Average time to resolve an issue")
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/The-FireHub-Project/the-firehub-project.github.io.svg)](http://isitmaintained.com/project/The-FireHub-Project/TheCore 'Percentage of issues still open')
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/The-FireHub-Project/the-firehub-project.github.io.svg)](http://isitmaintained.com/project/The-FireHub-Project/TheCore 'Average time to resolve an issue')
 
 Read our [Support](https://github.com/The-FireHub-Project/.github/blob/master/.github/SUPPORT.md) file that explains how you can get help with the repository and project.
 
