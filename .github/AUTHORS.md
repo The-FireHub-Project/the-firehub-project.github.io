@@ -46,6 +46,6 @@
         </tr>
     </table>
 
-# Other Contributors
+## Other Contributors
 
 Full list of individuals contributors can be found [here](https://github.com/The-FireHub-Project/the-firehub-project.github.io/blob/master/.github/CONTRIBUTORS.md).
