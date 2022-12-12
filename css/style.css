@@ -1,0 +1,57 @@
+hr {margin: 0.5rem 0 1rem 0 !important;}
+a:not([class]) {text-decoration: none !important;}
+
+@media (min-width: 50rem) {
+    .main {
+        max-width: 1000px;
+    }
+}
+
+@media (min-width: 66.5rem) {
+    .site-nav, .site-header, .site-footer {
+        width: 364px;
+    }
+}
+
+div.callout {
+    display: grid;
+    grid-template-columns: 20px auto;
+    grid-template-rows: 20px auto;
+    margin: 4px 0 2px;
+    padding: 16px;
+    color: #8b949e;
+}
+
+div.callout > svg {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+    align-self: center;
+    height: 16px;
+    width: 16px;
+}
+
+div.callout > span {
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+    align-self: center;
+}
+
+div.callout > p {
+    grid-column: 1 / 3;
+    align-self: center;
+    margin-top: 4px;
+    margin-bottom: 0;
+}
+
+div.callout.blue {background-color: #2196F326; border: 1px solid #1565C0;}
+div.callout.blue > svg {fill: #1565C0;}
+div.callout.blue > span {color: #1565C0;}
+div.callout.orange {background-color: #FF980026; border: 1px solid #EF6C00;}
+div.callout.orange > svg {fill: #EF6C00;}
+div.callout.orange > span {color: #EF6C00;}
+div.callout.red {background-color: #F4433626; border: 1px solid #C62828;}
+div.callout.red > svg {fill: #C62828;}
+div.callout.red > span {color: #C62828;}
+div.callout.purple {background-color: #9C27B026; border: 1px solid #6A1B9A;}
+div.callout.purple > svg {fill: #6A1B9A;}
+div.callout.purple > span {color: #6A1B9A;}
