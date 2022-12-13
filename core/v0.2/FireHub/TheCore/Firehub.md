@@ -32,13 +32,13 @@ components for FireHub bootstrapping._
 <sub>_This class was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: 2a080be17504065dfecf7e724ee1d1f2e5b50bbb $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: bb81dd384cbb3b9ebaae769319039beb974afac6 $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
 
 * **0.1.1.pre-alpha.M1** 
-* **0.1.2** _Added kernel parameter parameter and response from Kernel to boot method and created kernel method._
+* **0.1.2.pre-alpha.M1** _Added kernel parameter parameter and response from Kernel to boot method and created kernel method._
 * **0.1.3.pre-alpha.M1** _Removed unused variable $folder._
 * **0.2.0-pre-alpha.M2** _In registerConstants method, added constant from support._
 
