@@ -1,0 +1,17 @@
+remote_theme: just-the-docs/just-the-docs
+color_scheme: firehub
+logo: "resources/graphics/logo/firehub.svg"
+callouts_level: loud
+callouts:
+  note:
+    title: Note
+    color: purple
+  info:
+    title: Info
+    color: blue
+  caution:
+    title: Caution
+    color: yellow
+  warning:
+    title: Warning
+    color: red
