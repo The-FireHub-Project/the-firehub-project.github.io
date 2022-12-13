@@ -29,7 +29,7 @@ abstract class \FireHub\TheCore\Support\LowLevel\StrSafe()
 <sub>_This class was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: ecf6ba89fb194e07f2be9d1c93324a151de60a8c $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: b275c5ddc69928c366c415cc32aeb9901a2fa7c3 $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
@@ -419,7 +419,7 @@ public static \FireHub\TheCore\Support\LowLevel\StrSafe::endsWith(string $value,
 
 
 ```php
-abstract public static \FireHub\TheCore\Support\LowLevel\StrSafe::length(string $string):int<0, max>
+abstract public static \FireHub\TheCore\Support\LowLevel\StrSafe::length(string $string):positive-int|\FireHub\TheCore\Support\LowLevel\0
 ```
 
 ### ### Get string length
@@ -437,7 +437,7 @@ abstract public static \FireHub\TheCore\Support\LowLevel\StrSafe::length(string 
 
 ### Returns:
 
-* int&lt;0, max&gt; _String length._
+* positive-int or [\FireHub\TheCore\Support\LowLevel\0](/core/v0.2\FireHub\TheCore\Support\LowLevel\0) _String length._
 
 <h2><a name="firstposition()"># firstPosition()</a></h2>
 ***

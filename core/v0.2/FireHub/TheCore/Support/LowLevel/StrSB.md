@@ -30,7 +30,7 @@ final class \FireHub\TheCore\Support\LowLevel\StrSB()
 <sub>_This class was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: d4ba5491a3cae1338522641fc658b7d6cd475b76 $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: db488bd45ad2386fb64751d5f9045c7c162d16aa $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
@@ -439,7 +439,7 @@ __
 
 ### Returns:
 
-* int&lt;0, max&gt; _String length._
+* positive-int or [\FireHub\TheCore\Support\LowLevel\0](/core/v0.2\FireHub\TheCore\Support\LowLevel\0) _String length._
 
 <h2><a name="firstposition()"># firstPosition()</a></h2>
 ***
@@ -989,7 +989,7 @@ If length is given and is negative, then subject will be examined from the start
 ***
 
 ```php
-public static \FireHub\TheCore\Support\LowLevel\StrSB::countWords(string $string, null|string $characters = nulL, int<0, 2> $format):int|array<int,string>|false
+public static \FireHub\TheCore\Support\LowLevel\StrSB::countWords(string $string, null|string $characters = nulL, \FireHub\TheCore\Support\LowLevel\0|\FireHub\TheCore\Support\LowLevel\1|\FireHub\TheCore\Support\LowLevel\2 $format):int|array<int,string>|false
 ```
 
 ### ### Count number of words in string
@@ -1006,7 +1006,7 @@ public static \FireHub\TheCore\Support\LowLevel\StrSB::countWords(string $string
 * string $string _A string to search words._
 * null or string $characters = nulL _[optional] 
 A list of additional characters which will be considered as &#039;word&#039;._
-* int&lt;0, 2&gt; $format _[optional] 
+* [\FireHub\TheCore\Support\LowLevel\0](/core/v0.2\FireHub\TheCore\Support\LowLevel\0) or [\FireHub\TheCore\Support\LowLevel\1](/core/v0.2\FireHub\TheCore\Support\LowLevel\1) or [\FireHub\TheCore\Support\LowLevel\2](/core/v0.2\FireHub\TheCore\Support\LowLevel\2) $format _[optional] 
 A string to search words.
 
 0 - returns the number of words found.
