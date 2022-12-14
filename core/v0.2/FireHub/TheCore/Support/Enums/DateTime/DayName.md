@@ -63,6 +63,11 @@ enum \FireHub\TheCore\Support\Enums\DateTime\DayName
 
 * **0.1.3.pre-alpha.M1** 
 
+### This case is used by:
+
+* *To get current date.*
+
+
 <h2><a name="yesterday"># YESTERDAY</a></h2>
 ***
 
@@ -78,4 +83,9 @@ enum \FireHub\TheCore\Support\Enums\DateTime\DayName
 ### Changelog:
 
 * **0.1.3.pre-alpha.M1** 
+
+### This case is used by:
+
+* *To get yesterday's date.*
+
 

@@ -129,6 +129,15 @@ public static \FireHub\TheCore\Support\LowLevel\DateAndTime::formatInteger(strin
 
 * **0.1.3.pre-alpha.M1** 
 
+### This method is used by:
+
+* *To get current month as integer.*
+
+* *To get current month as integer.*
+
+* *To get current month as integer.*
+
+
 ### Parameters:
 
 * string $format _Single format character._

@@ -587,6 +587,18 @@ public static \FireHub\TheCore\Support\LowLevel\DataIs::string(mixed $value)
 
 ### This method is used by:
 
+* *To check if $at is a string.*
+
+* *To check if $at is a string.*
+
+* *To check if $at is a string.*
+
+* *To check if $at is a string.*
+
+* *To check if $at is a string.*
+
+* *To check if $at is a string.*
+
 * *To check if first $field value is string.*
 
 * *To check if value is string.*

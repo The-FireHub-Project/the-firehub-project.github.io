@@ -33,6 +33,12 @@ enum \FireHub\TheCore\Support\Enums\DateTime\WeekDay
 * **0.1.3.pre-alpha.M1** 
 
 
+## This enum is used by
+***
+
+* *As parametar.*
+
+
 ## Cases table
 ***
 

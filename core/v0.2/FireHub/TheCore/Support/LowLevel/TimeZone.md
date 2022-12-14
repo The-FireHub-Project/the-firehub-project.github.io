@@ -70,6 +70,11 @@ public static \FireHub\TheCore\Support\LowLevel\TimeZone::getDefaultTimezone():\
 
 * [\FireHub\TheCore\Support\Enums\DateTime\TimeZone](/core/v0.2\FireHub\TheCore\Support\Enums\DateTime\TimeZone) _To check for valid timezone._
 
+### This method is used by:
+
+* *To get default timezone.*
+
+
 ### Returns:
 
 * [\FireHub\TheCore\Support\Enums\DateTime\TimeZone](/core/v0.2\FireHub\TheCore\Support\Enums\DateTime\TimeZone) or false _Timezone, false if timezone doesn&#039;t exist._
@@ -89,6 +94,11 @@ public static \FireHub\TheCore\Support\LowLevel\TimeZone::setDefaultTimezone(\Fi
 ### Changelog:
 
 * **0.2.1.pre-alpha.M2** 
+
+### This method is used by:
+
+* *To set default timezone.*
+
 
 ### Parameters:
 

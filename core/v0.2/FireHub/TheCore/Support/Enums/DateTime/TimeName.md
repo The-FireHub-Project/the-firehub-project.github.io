@@ -64,6 +64,13 @@ enum \FireHub\TheCore\Support\Enums\DateTime\TimeName
 
 * **0.2.1.pre-alpha.M2** 
 
+### This case is used by:
+
+* *To get current date and time.*
+
+* *As default parametar.*
+
+
 <h2><a name="noon"># NOON</a></h2>
 ***
 
@@ -95,4 +102,17 @@ enum \FireHub\TheCore\Support\Enums\DateTime\TimeName
 ### Changelog:
 
 * **0.1.3.pre-alpha.M1** 
+
+### This case is used by:
+
+* *As default parametar.*
+
+* *As default parametar.*
+
+* *As default parametar.*
+
+* *As default parametar.*
+
+* *As default parametar.*
+
 

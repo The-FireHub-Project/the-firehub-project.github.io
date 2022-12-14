@@ -36,6 +36,10 @@ enum \FireHub\TheCore\Support\Enums\DateTime\TimeZone
 ## This enum is used by
 ***
 
+* *As return.*
+
+* *As parameter.*
+
 * *To check for valid timezone.*
 
 

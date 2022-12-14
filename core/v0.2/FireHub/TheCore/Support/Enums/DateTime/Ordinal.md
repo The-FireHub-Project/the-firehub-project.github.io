@@ -74,6 +74,11 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Ordinal
 
 * **0.2.1.pre-alpha.M2** 
 
+### This case is used by:
+
+* *To get first day of the first of the selected month.*
+
+
 <h2><a name="second"># SECOND</a></h2>
 ***
 
@@ -255,6 +260,11 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Ordinal
 ### Changelog:
 
 * **0.2.1.pre-alpha.M2** 
+
+### This case is used by:
+
+* *To get last day of the first of the selected month.*
+
 
 <h2><a name="previous"># PREVIOUS</a></h2>
 ***
