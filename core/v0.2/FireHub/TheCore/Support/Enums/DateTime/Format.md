@@ -25,7 +25,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Format
 <sub>_This enum was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: b18ddcc9debc9676226ccceb66a264353f33083b $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: d99eff0b7e43d2e338e02075a16d55128f2e3964 $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
@@ -76,7 +76,6 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Format
 
 ### Examples:
 
-Registiring new autoload implementation.
 ```php
 2022-12-09
 ```
@@ -101,7 +100,6 @@ Registiring new autoload implementation.
 
 ### Examples:
 
-Registiring new autoload implementation.
 ```php
 08:53:18
 ```
@@ -126,7 +124,6 @@ Registiring new autoload implementation.
 
 ### Examples:
 
-Registiring new autoload implementation.
 ```php
 08:53:56.844337
 ```
@@ -151,7 +148,6 @@ Registiring new autoload implementation.
 
 ### Examples:
 
-Registiring new autoload implementation.
 ```php
 2022-12-09 08:55:00
 ```
@@ -176,7 +172,6 @@ Registiring new autoload implementation.
 
 ### Examples:
 
-Registiring new autoload implementation.
 ```php
 2022-12-09 08:55:33.641682
 ```
@@ -201,7 +196,6 @@ Registiring new autoload implementation.
 
 ### Examples:
 
-Registiring new autoload implementation.
 ```php
 2022-12-09T08:58:56+01:00
 ```
@@ -226,7 +220,6 @@ Registiring new autoload implementation.
 
 ### Examples:
 
-Registiring new autoload implementation.
 ```php
 2022-12-09T08:58:45.038+01:00
 ```
@@ -251,7 +244,6 @@ Registiring new autoload implementation.
 
 ### Examples:
 
-Registiring new autoload implementation.
 ```php
 Friday, 09-Dec-2022 08:58:31 CET
 ```
@@ -276,7 +268,6 @@ Friday, 09-Dec-2022 08:58:31 CET
 
 ### Examples:
 
-Registiring new autoload implementation.
 ```php
 2022-12-09T08:58:18+0100
 ```
@@ -301,7 +292,6 @@ Registiring new autoload implementation.
 
 ### Examples:
 
-Registiring new autoload implementation.
 ```php
 X-12-09T08:58:03+01:00
 ```
@@ -326,7 +316,6 @@ X-12-09T08:58:03+01:00
 
 ### Examples:
 
-Registiring new autoload implementation.
 ```php
 Fri, 09 Dec 22 08:57:30 +0100
 ```
@@ -351,7 +340,6 @@ Fri, 09 Dec 22 08:57:30 +0100
 
 ### Examples:
 
-Registiring new autoload implementation.
 ```php
 Friday, 09-Dec-22 08:57:46 CET
 ```
@@ -376,7 +364,6 @@ Friday, 09-Dec-22 08:57:46 CET
 
 ### Examples:
 
-Registiring new autoload implementation.
 ```php
 Fri, 09 Dec 2022 08:56:35 GMT
 ```
@@ -401,7 +388,6 @@ Fri, 09 Dec 2022 08:56:35 GMT
 
 ### Examples:
 
-Registiring new autoload implementation.
 ```php
 Fri, 09 Dec 2022 08:56:11 +0100
 ```
