@@ -25,7 +25,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Format
 <sub>_This enum was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: d99eff0b7e43d2e338e02075a16d55128f2e3964 $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: 8fe13ce3e5892d07b506a757c72cc2c48d288a83 $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
