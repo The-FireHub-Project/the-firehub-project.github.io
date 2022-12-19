@@ -29,7 +29,7 @@ final class \FireHub\TheCore\Support\DateTime\TimeZone()
 <sub>_This class was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: b2d29c51e1db840af343a4b4395d1b4dd2378c1b $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: 1baeae5409f420388195074b3672493eec9ebab8 $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
