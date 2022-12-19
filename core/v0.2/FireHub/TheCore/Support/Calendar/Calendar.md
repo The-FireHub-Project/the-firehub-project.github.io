@@ -29,7 +29,7 @@ final class \FireHub\TheCore\Support\Calendar\Calendar()
 <sub>_This class was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: 39b04b9e43c7dc6ea8cb573faf918b740d62285a $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: fc050dcb91fe377d5a79088c6e1fe6c635bff056 $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
