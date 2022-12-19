@@ -29,7 +29,7 @@ final class \FireHub\TheCore\Support\LowLevel\Time()
 <sub>_This class was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: 6041356cbc7ede73cb90865ba81c0ae7a28d1aff $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: 5829d82b03c54315c67458b2313e9275f78b9a38 $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
@@ -91,7 +91,7 @@ public static \FireHub\TheCore\Support\LowLevel\Time::microtime():int|false
 * [\FireHub\TheCore\Support\LowLevel\StrSB::explode()](/thecore/v0.2\FireHub\TheCore\Support\LowLevel\StrSB#explode()) _To split microtime function._
 * [\FireHub\TheCore\Support\LowLevel\Data::setType()](/thecore/v0.2\FireHub\TheCore\Support\LowLevel\Data#settype()) _To set microtime to other type._
 * [\FireHub\TheCore\Support\Enums\Data\Type::T_INT](/thecore/v0.2\FireHub\TheCore\Support\Enums\Data\Type#t_int) _To set microtime as integer._
-* [\FireHub\TheCore\Support\LowLevel\StrSB::part()](/thecore/v0.2\FireHub\TheCore\Support\LowLevel\StrSB#part()) _To get par of microtime._
+* [\FireHub\TheCore\Support\LowLevel\StrSB::part()](/thecore/v0.2\FireHub\TheCore\Support\LowLevel\StrSB#part()) _To get part of microtime._
 
 ### Returns:
 
