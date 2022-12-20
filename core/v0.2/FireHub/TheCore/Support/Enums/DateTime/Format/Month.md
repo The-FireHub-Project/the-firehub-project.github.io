@@ -26,12 +26,12 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Format\Month
 <sub>_This enum was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: 88b9394e5dafd0d7691a9428a5e4d87ade9b3b01 $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: d41e5721b112c7541fa21ad9f5f76d812d3ab98a $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 
 ## Cases table
@@ -64,7 +64,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Format\Month
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### This case is used by:
 
@@ -93,7 +93,7 @@ January, December
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### This case is used by:
 
@@ -122,7 +122,7 @@ Jan, Dec
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### This case is used by:
 
@@ -151,7 +151,7 @@ Jan, Dec
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### This case is used by:
 
@@ -180,7 +180,7 @@ Jan, Dec
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### This case is used by:
 

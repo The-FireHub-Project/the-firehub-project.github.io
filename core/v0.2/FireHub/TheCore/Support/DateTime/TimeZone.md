@@ -29,12 +29,12 @@ final class \FireHub\TheCore\Support\DateTime\TimeZone()
 <sub>_This class was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: 1baeae5409f420388195074b3672493eec9ebab8 $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: d74fc1d97ccfa2abd840213e6caabbf765c23a84 $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 
 ## This class is used by
@@ -104,7 +104,7 @@ private \DateTimeZone \FireHub\TheCore\Support\DateTime\TimeZone::$date_time_zon
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 <h2><a name="$timezone"># $timezone</a></h2>
 ***
@@ -141,7 +141,7 @@ public \FireHub\TheCore\Support\DateTime\TimeZone::__construct(\FireHub\TheCore\
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### This method uses:
 
@@ -169,7 +169,7 @@ public \FireHub\TheCore\Support\DateTime\TimeZone::name():string
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Returns:
 
@@ -189,7 +189,7 @@ public \FireHub\TheCore\Support\DateTime\TimeZone::offsetGMT():int
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### This method uses:
 
@@ -217,7 +217,7 @@ public \FireHub\TheCore\Support\DateTime\TimeZone::latitude():float
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Throws:
 
@@ -241,7 +241,7 @@ public \FireHub\TheCore\Support\DateTime\TimeZone::longitude():float
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Throws:
 
@@ -265,7 +265,7 @@ public \FireHub\TheCore\Support\DateTime\TimeZone::country():\FireHub\TheCore\Su
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### This method uses:
 
@@ -293,7 +293,7 @@ public \FireHub\TheCore\Support\DateTime\TimeZone::continent():\FireHub\TheCore\
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### This method uses:
 
@@ -321,7 +321,7 @@ public static \FireHub\TheCore\Support\DateTime\TimeZone::getDefaultTimeZone():\
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### This method uses:
 
@@ -357,7 +357,7 @@ public static \FireHub\TheCore\Support\DateTime\TimeZone::setDefaultTimeZone(\Fi
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### This method uses:
 

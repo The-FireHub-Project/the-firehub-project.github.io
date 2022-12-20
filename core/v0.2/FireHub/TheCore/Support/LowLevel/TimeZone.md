@@ -29,12 +29,12 @@ final class \FireHub\TheCore\Support\LowLevel\TimeZone()
 <sub>_This class was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: 1c8b914da25de11173058ed732a5297ffb327d3f $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: f0140be515577fab17190af7886c2aa1e6cce3dd $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 
 ## Methods table
@@ -64,7 +64,7 @@ public static \FireHub\TheCore\Support\LowLevel\TimeZone::getDefaultTimezone():\
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### This method uses:
 
@@ -93,7 +93,7 @@ public static \FireHub\TheCore\Support\LowLevel\TimeZone::setDefaultTimezone(\Fi
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### This method is used by:
 

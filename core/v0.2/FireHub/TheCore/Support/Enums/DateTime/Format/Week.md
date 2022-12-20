@@ -26,12 +26,12 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Format\Week
 <sub>_This enum was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: 942981b4a70d116b15763755c8d0ec90af85da7b $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: e7a1a481496683e0ac220595c9184991ed568b93 $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 
 ## Cases table
@@ -60,7 +60,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Format\Week
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Examples:
 

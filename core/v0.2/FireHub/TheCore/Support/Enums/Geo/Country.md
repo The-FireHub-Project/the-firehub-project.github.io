@@ -25,12 +25,12 @@ enum \FireHub\TheCore\Support\Enums\Geo\Country
 <sub>_This enum was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: eb159c28f3a54b2206732ae295220ef01b4a614f $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: 303409b3a24883afe94825b2ca9101482d59f6be $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 
 ## This enum is used by
@@ -3221,7 +3221,7 @@ public \FireHub\TheCore\Support\Enums\Geo\Country::continent():\FireHub\TheCore\
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Returns:
 

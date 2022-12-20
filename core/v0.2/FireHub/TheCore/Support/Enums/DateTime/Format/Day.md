@@ -26,12 +26,12 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Format\Day
 <sub>_This enum was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: ef7b37ee3387deb425cdfc9b152f471217180100 $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: 0d9615dbb4ac3e9b3203e5819e9dbe6cde2fbdd4 $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 
 ## Cases table
@@ -67,7 +67,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Format\Day
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Examples:
 
@@ -91,7 +91,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Format\Day
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Examples:
 
@@ -115,7 +115,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Format\Day
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Examples:
 
@@ -139,7 +139,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Format\Day
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Examples:
 
@@ -163,7 +163,7 @@ Sunday through Saturday
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Examples:
 
@@ -187,7 +187,7 @@ Mon through Sun
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Examples:
 
@@ -211,7 +211,7 @@ Mon through Sun
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Examples:
 
@@ -235,7 +235,7 @@ Mon through Sun
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Examples:
 

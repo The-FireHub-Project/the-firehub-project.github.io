@@ -26,12 +26,12 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Format\Year
 <sub>_This enum was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: e7320bd014c434f1b5bda980ff5cc0635bf94f1d $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: 6c7873c3efa0003f280612d00c53a4d1b60265da $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 
 ## Cases table
@@ -62,7 +62,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Format\Year
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### This case is used by:
 
@@ -91,7 +91,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Format\Year
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Examples:
 
@@ -115,7 +115,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Format\Year
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### This case is used by:
 

@@ -25,12 +25,12 @@ enum \FireHub\TheCore\Support\Enums\Geo\Continent
 <sub>_This enum was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: 6786791ce11f9b8ed7aade23baf970ae758100e5 $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: 6f360fb5cb22ddc2ab50f344a102abe828238918 $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 
 ## This enum is used by

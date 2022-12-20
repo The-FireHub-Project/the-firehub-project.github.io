@@ -29,13 +29,13 @@ final class \FireHub\TheCore\Support\LowLevel\DateAndTime()
 <sub>_This class was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: 7b0d78893fe727860ef2da1c7c983e3b822d189b $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: 73a0a53ab4034265818cbed58bf4e2981f4a78f6 $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
 
 * **0.1.3.pre-alpha.M1** 
-* **0.2.1.pre-alpha.M2** _Removed timezone methods, changed default $format in format method._
+* **0.2.0.pre-alpha.M2** _Removed timezone methods, changed default $format in format method._
 
 
 ## Methods table
@@ -96,7 +96,7 @@ public static \FireHub\TheCore\Support\LowLevel\DateAndTime::date(string $format
 ### Changelog:
 
 * **0.1.3.pre-alpha.M1** 
-* **0.2.1.pre-alpha.M2** _Changed default $format._
+* **0.2.0.pre-alpha.M2** _Changed default $format._
 
 ### This method is used by:
 

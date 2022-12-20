@@ -25,13 +25,13 @@ enum \FireHub\TheCore\Support\Enums\DateTime\DayName
 <sub>_This enum was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: 518f596f586c9acc9585d91f1186cc2378c22ce0 $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: 5889a29f661249739eec2f79b4600fc6fad7386c $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
 
 * **0.1.3.pre-alpha.M1** 
-* **0.2.1.pre-alpha.M2** _Removed FIRST_DAY and LAST_DAY enums._
+* **0.2.0.pre-alpha.M2** _Removed FIRST_DAY and LAST_DAY enums._
 
 
 ## Cases table

@@ -29,12 +29,12 @@ final class \FireHub\TheCore\Support\DateTime\Interval()
 <sub>_This class was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: 5cf34295de3645f3aef1460327245f97540ccac4 $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: d28a4e6d80dfea8471805bda92b7c3b71aab88d1 $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 
 ## This class is used by
@@ -182,7 +182,7 @@ public \FireHub\TheCore\Support\DateTime\Interval::__construct(int $years, int $
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Parameters:
 

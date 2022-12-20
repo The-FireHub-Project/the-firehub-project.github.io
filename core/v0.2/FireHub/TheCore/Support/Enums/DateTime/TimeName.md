@@ -25,13 +25,13 @@ enum \FireHub\TheCore\Support\Enums\DateTime\TimeName
 <sub>_This enum was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: af6b3e446c5fe4a0db3c74e6ec464441c2c34e8d $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: 6e016e219019f31720ac3608737edbc195e4f491 $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
 
 * **0.1.3.pre-alpha.M1** 
-* **0.2.1.pre-alpha.M2** _Added NOW enum._
+* **0.2.0.pre-alpha.M2** _Added NOW enum._
 
 
 ## Cases table
@@ -62,7 +62,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\TimeName
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### This case is used by:
 

@@ -26,12 +26,12 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Format\Time
 <sub>_This enum was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: 62ae854584db3501b7760718346ff94420a94528 $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: 3bbc6f5fc5b4a2e7ca8c5d9b3a117ba9f481d452 $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 
 ## Cases table
@@ -70,7 +70,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Format\Time
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Examples:
 
@@ -94,7 +94,7 @@ am or pm
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Examples:
 
@@ -118,7 +118,7 @@ AM or PM
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Examples:
 
@@ -142,7 +142,7 @@ AM or PM
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Examples:
 
@@ -166,7 +166,7 @@ AM or PM
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Examples:
 
@@ -190,7 +190,7 @@ AM or PM
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Examples:
 
@@ -214,7 +214,7 @@ AM or PM
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Examples:
 
@@ -238,7 +238,7 @@ AM or PM
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Examples:
 
@@ -262,7 +262,7 @@ AM or PM
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Examples:
 
@@ -286,7 +286,7 @@ AM or PM
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Examples:
 
@@ -310,7 +310,7 @@ AM or PM
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 ### Examples:
 

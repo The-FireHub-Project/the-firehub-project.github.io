@@ -25,12 +25,12 @@ interface \FireHub\TheCore\Support\Enums\DateTime\Format\Format
 <sub>_This interface was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: 1d9b6e7b5d73fe92df67953ab6258a5c4094da30 $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: fffc8308f68cfe941acf9f74cc403f75c9fbba7b $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 
 ## This interface is used by

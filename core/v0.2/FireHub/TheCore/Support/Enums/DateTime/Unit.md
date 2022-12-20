@@ -25,12 +25,12 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Unit
 <sub>_This enum was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: d0ac6b948e93b6c45f4bfe4eab85f2c9d9ee647d $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: fdfa317a3324a09cab001c1c0252e9b72a47fcd9 $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 
 ## This enum is used by
@@ -73,7 +73,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Unit
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 <h2><a name="month"># MONTH</a></h2>
 ***
@@ -87,7 +87,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Unit
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 <h2><a name="day"># DAY</a></h2>
 ***
@@ -101,7 +101,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Unit
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 <h2><a name="hour"># HOUR</a></h2>
 ***
@@ -115,7 +115,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Unit
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 <h2><a name="minute"># MINUTE</a></h2>
 ***
@@ -129,7 +129,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Unit
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 <h2><a name="second"># SECOND</a></h2>
 ***
@@ -143,7 +143,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Unit
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 <h2><a name="milisecond"># MILISECOND</a></h2>
 ***
@@ -157,7 +157,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Unit
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 <h2><a name="microsecond"># MICROSECOND</a></h2>
 ***
@@ -171,7 +171,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Unit
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 <h2><a name="fortnight"># FORTNIGHT</a></h2>
 ***
@@ -185,7 +185,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Unit
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 <h2><a name="week"># WEEK</a></h2>
 ***
@@ -199,7 +199,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Unit
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
 <h2><a name="weekday"># WEEKDAY</a></h2>
 ***
@@ -213,5 +213,5 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Unit
 
 ### Changelog:
 
-* **0.2.1.pre-alpha.M2** 
+* **0.2.0.pre-alpha.M2** 
 
