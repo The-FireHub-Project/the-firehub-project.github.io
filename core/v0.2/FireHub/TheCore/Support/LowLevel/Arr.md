@@ -29,7 +29,7 @@ final class \FireHub\TheCore\Support\LowLevel\Arr()
 <sub>_This class was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: b7c86fd1edcb67398f98d56c822290e354f15ea9 $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: d96fe79a98b0f266c1d035428bb4e6b9222065ce $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
@@ -566,7 +566,7 @@ public static \FireHub\TheCore\Support\LowLevel\Arr::search(mixed $value, array 
 ### This method uses:
 
 * [\FireHub\TheCore\Support\LowLevel\Arr::combine()](/thecore/v0.2\FireHub\TheCore\Support\LowLevel\Arr#combine()) _To combine from one array for keys and another for its values._
-* [\FireHub\TheCore\Support\LowLevel\Arr::keys()](/thecore/v0.2\FireHub\TheCore\Support\LowLevel\Arr#keys()) _To get keys from array.._
+* [\FireHub\TheCore\Support\LowLevel\Arr::keys()](/thecore/v0.2\FireHub\TheCore\Support\LowLevel\Arr#keys()) _To get keys from array._
 * [\FireHub\TheCore\Support\LowLevel\Arr::column()](/thecore/v0.2\FireHub\TheCore\Support\LowLevel\Arr#column()) _To get the values from a single column._
 
 ### Parameters:
@@ -1199,7 +1199,7 @@ public static \FireHub\TheCore\Support\LowLevel\Arr::keys(array $array, \FireHub
 
 ### This method is used by:
 
-* *To get keys from array..*
+* *To get keys from array.*
 
 * *To get array keys.*
 

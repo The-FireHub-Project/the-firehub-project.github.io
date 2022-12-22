@@ -25,7 +25,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Unit
 <sub>_This enum was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: fdfa317a3324a09cab001c1c0252e9b72a47fcd9 $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: 00b571d7e849071cb9e49c029e8bab40c160eb45 $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
@@ -50,7 +50,7 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Unit
 |<a href="#hour">HOUR</a>||&#039;hour&#039;|
 |<a href="#minute">MINUTE</a>||&#039;minute&#039;|
 |<a href="#second">SECOND</a>||&#039;second&#039;|
-|<a href="#milisecond">MILISECOND</a>||&#039;milisecond&#039;|
+|<a href="#millisecond">MILLISECOND</a>||&#039;millisecond&#039;|
 |<a href="#microsecond">MICROSECOND</a>||&#039;microsecond&#039;|
 |<a href="#fortnight">FORTNIGHT</a>||&#039;fortnight&#039;|
 |<a href="#week">WEEK</a>||&#039;week&#039;|
@@ -145,14 +145,14 @@ enum \FireHub\TheCore\Support\Enums\DateTime\Unit
 
 * **0.2.0.pre-alpha.M2** 
 
-<h2><a name="milisecond"># MILISECOND</a></h2>
+<h2><a name="millisecond"># MILLISECOND</a></h2>
 ***
 
 ```php
-\FireHub\TheCore\Support\Enums\DateTime\Unit::MILISECOND = 'milisecond'
+\FireHub\TheCore\Support\Enums\DateTime\Unit::MILLISECOND = 'millisecond'
 ```
 
-<sub>Fully Qualified Case Name:  **\FireHub\TheCore\Support\Enums\DateTime\Unit::MILISECOND**</sub><br>
+<sub>Fully Qualified Case Name:  **\FireHub\TheCore\Support\Enums\DateTime\Unit::MILLISECOND**</sub><br>
 <sub>Source code:  **[view source code](https://github.com/The-FireHub-Project/TheCore/blob/v1.0/src/support/enums/datetime/firehub.Unit.php#L58)**</sub><br>
 
 ### Changelog:
