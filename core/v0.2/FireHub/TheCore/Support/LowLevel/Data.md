@@ -31,7 +31,7 @@ _This low level support class is for manipulating data._
 <sub>_This class was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: 3a5085b9ec56f895678db40b9c2265cad7193654 $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: 5a9c867636694d0aa4f28456050d948d0544a89c $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
@@ -192,7 +192,7 @@ public static \FireHub\TheCore\Support\LowLevel\Data::serialize(string|int|float
 ***
 
 ```php
-public static \FireHub\TheCore\Support\LowLevel\Data::unserialize(string $data, bool|class-string[] $allowed_classes = false, positive-int $max_depth = 4096):string|int|float|bool|array<array-key,mixed>
+public static \FireHub\TheCore\Support\LowLevel\Data::unserialize(string $data, bool|class-string[] $allowed_classes = false, positive-int $max_depth = 4096)
 ```
 
 ### ### Creates a PHP value from a stored representation
@@ -211,10 +211,6 @@ public static \FireHub\TheCore\Support\LowLevel\Data::unserialize(string $data, 
 Either an array of class names which should be accepted, false to accept no classes, or true to accept all classes._
 * positive-int $max_depth = 4096 _[optional] 
 The maximum depth of structures permitted during unserialization, and is intended to prevent stack overflows._
-
-### Returns:
-
-* string or int or float or bool or array&lt;array-key,mixed&gt; _The converted value is returned, false otherwise._
 
 <h2><a name="jsonencode()"># jsonEncode()</a></h2>
 ***

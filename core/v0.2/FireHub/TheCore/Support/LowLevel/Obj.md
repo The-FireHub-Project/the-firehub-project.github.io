@@ -29,7 +29,7 @@ final class \FireHub\TheCore\Support\LowLevel\Obj()
 <sub>_This class was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: 298fa8ff1bb2a0af8df6b38a1354089d969a89d8 $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: 24517b1af91e804cc0077a12efa88456210b002d $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
@@ -134,7 +134,7 @@ public static \FireHub\TheCore\Support\LowLevel\Obj::ofClass(object $value, clas
 
 ### Returns:
 
-* bool _True if value is array, false otherwise._
+* bool _True if object is of class, false otherwise._
 
 <h2><a name="subclassof()"># subClassOf()</a></h2>
 ***
