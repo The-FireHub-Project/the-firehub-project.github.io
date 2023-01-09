@@ -29,7 +29,7 @@ final class \FireHub\TheCore\Support\LowLevel\Arr()
 <sub>_This class was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: f2230f9eae0edb8b80747ca0acc3693bcebc3e6e $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: ecb4dc4c4507ebc2bc46a7ad574cdc5b2dec7b63 $ Blob checksum._</sub><br>
 
 ## Changelog
 ***

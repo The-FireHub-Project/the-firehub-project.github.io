@@ -29,7 +29,7 @@ final class \FireHub\TheCore\Support\DateTime\Interval()
 <sub>_This class was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: 64ca96ed210d34fa0d5ccf3a0f3ce5aff55a287a $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: 7f3b7d9d390f9ef42f894d4f0ef5c74cc8535816 $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
@@ -1134,7 +1134,7 @@ public \FireHub\TheCore\Support\DateTime\Interval::__set(string $name, mixed $va
 ***
 
 ```php
-public \FireHub\TheCore\Support\DateTime\Interval::__call(string $method, array $arguments):self|int
+public \FireHub\TheCore\Support\DateTime\Interval::__call(string $method, array<array-key,string> $arguments):self|int
 ```
 
 ### ### Invoking inaccessible methods in an object context
@@ -1156,7 +1156,7 @@ public \FireHub\TheCore\Support\DateTime\Interval::__call(string $method, array 
 ### Parameters:
 
 * string $method _Method name._
-* array $arguments 
+* array&lt;array-key,string&gt; $arguments _List of arguments._
 
 ### Throws:
 
@@ -1171,7 +1171,7 @@ public \FireHub\TheCore\Support\DateTime\Interval::__call(string $method, array 
 ***
 
 ```php
-public static \FireHub\TheCore\Support\DateTime\Interval::__callStatic(string $method, array $arguments):self
+public static \FireHub\TheCore\Support\DateTime\Interval::__callStatic(string $method, array<array-key,string> $arguments):self
 ```
 
 ### ### Invoking inaccessible static methods in an object context
@@ -1186,7 +1186,7 @@ public static \FireHub\TheCore\Support\DateTime\Interval::__callStatic(string $m
 ### Parameters:
 
 * string $method _Method name._
-* array $arguments 
+* array&lt;array-key,string&gt; $arguments _List of arguments._
 
 ### Returns:
 

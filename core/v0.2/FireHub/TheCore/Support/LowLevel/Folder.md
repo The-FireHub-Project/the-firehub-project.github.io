@@ -31,7 +31,7 @@ _This low level support class is for manipulating data._
 <sub>_This class was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: 2fc20ee69596b1e3cfbc4399f246f89ebc5ca72a $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: 0c142585888787dae35e13caadbcb2ad7d3030a1 $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
@@ -445,7 +445,7 @@ New destination path._
 ***
 
 ```php
-public static \FireHub\TheCore\Support\LowLevel\Folder::list(string $path, null|\FireHub\TheCore\Support\Enums\Order $order = null, bool $hidden = true)
+public static \FireHub\TheCore\Support\LowLevel\Folder::list(string $path, null|\FireHub\TheCore\Support\Enums\Order $order = null, bool $hidden = true):array<int,string>|false
 ```
 
 ### ### List files and directories inside the specified path
@@ -474,6 +474,10 @@ public static \FireHub\TheCore\Support\LowLevel\Folder::list(string $path, null|
 Result order._
 * bool $hidden = true _[optional] 
 List hidden file as well._
+
+### Returns:
+
+* array&lt;int,string&gt; or false _Array of filenames on success, or false on failure._
 
 <h2><a name="lastaccessed()"># lastAccessed()</a></h2>
 ***

@@ -37,7 +37,7 @@ _This low level support class is for manipulating data._
 <sub>_This class was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: 25a51b155c49768ee5be6e7a92988d1340202143 $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: 5597c007885853cf3c27399a5f70e846d58b508b $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
@@ -540,7 +540,7 @@ public static \FireHub\TheCore\Support\LowLevel\File::getContent(string $path):s
 ***
 
 ```php
-public static \FireHub\TheCore\Support\LowLevel\File::putContent(string $path, string|array $data, bool $append = false, bool $lock = true, bool $create_file = false):int|false
+public static \FireHub\TheCore\Support\LowLevel\File::putContent(string $path, string|array<int,string> $data, bool $append = false, bool $lock = true, bool $create_file = false):int|false
 ```
 
 ### ### Write data to a file
@@ -560,7 +560,7 @@ public static \FireHub\TheCore\Support\LowLevel\File::putContent(string $path, s
 ### Parameters:
 
 * string $path _Path to filename._
-* string or array $data 
+* string or array&lt;int,string&gt; $data _The data to write._
 * bool $append = false _[optional] 
 Append the data to the file instead of overwriting it._
 * bool $lock = true _[optional] 
