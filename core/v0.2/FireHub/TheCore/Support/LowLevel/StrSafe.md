@@ -29,7 +29,7 @@ abstract class \FireHub\TheCore\Support\LowLevel\StrSafe()
 <sub>_This class was created by Danijel Galić <danijel.galic@outlook.com>_</sub><br>
 <sub>_2023 FireHub Web Application Framework_</sub><br>
 <sub>_<https://opensource.org/licenses/OSL-3.0> OSL Open Source License version 3_</sub><br>
-<sub>_GIT: $Id: 9915e7b03a07c478280a275adbe7457bfb1e5269 $ Blob checksum._</sub><br>
+<sub>_GIT: $Id: 2995fe5ae369c49f06bc0b9089e615c0c1401c35 $ Blob checksum._</sub><br>
 
 ## Changelog
 ***
@@ -125,7 +125,7 @@ final public static \FireHub\TheCore\Support\LowLevel\StrSafe::isEmpty(string $v
 ***
 
 ```php
-public static \FireHub\TheCore\Support\LowLevel\StrSafe::replace(string|array<int,string> $search, string|array $replace, string $string, bool $case_sensitive = true, int|null &$count = null):string
+public static \FireHub\TheCore\Support\LowLevel\StrSafe::replace(string|array<int,string> $search, string|array<int,string> $replace, string $string, bool $case_sensitive = true, int|null &$count = null):string
 ```
 
 ### ### Checks if a string ends with a given value
@@ -143,7 +143,7 @@ _Note that multibyte characters may not work as expected while $case_sensitive i
 
 * string or array&lt;int,string&gt; $search _The replacement value that replaces found search values.
 An array may be used to designate multiple replacements._
-* string or array $replace 
+* string or array&lt;int,string&gt; $replace _The string being searched and replaced on._
 * string $string _The value being searched for._
 * bool $case_sensitive = true _[optional] 
 Searched values are case-insensitive._
