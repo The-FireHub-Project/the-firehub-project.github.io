@@ -2,10 +2,10 @@
 
 ## Official Website
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/The-FireHub-Project/the-firehub-project.github.io/master?style=flat&labelColor=30363d)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/The-FireHub-Project/the-firehub-project.github.io/master?style=flat&labelColor=30363d)
-![GitHub contributors](https://img.shields.io/github/contributors/The-FireHub-Project/the-firehub-project.github.io?style=flat&labelColor=30363d)
-![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fthe-firehub-project.github.io%2F?style=flat&labelColor=30363d)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/The-FireHub-Project/the-firehub-project.github.io/master?style=flat&labelColor=30363d)](https://github.com/The-FireHub-Project/the-firehub-project.github.io/commits/master/)
+[![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/The-FireHub-Project/the-firehub-project.github.io/master?style=flat&labelColor=30363d)](https://github.com/The-FireHub-Project/the-firehub-project.github.io/commits/master/)
+[![GitHub contributors](https://img.shields.io/github/contributors/The-FireHub-Project/the-firehub-project.github.io?style=flat&labelColor=30363d)](https://github.com/The-FireHub-Project/the-firehub-project.github.io/graphs/contributors)
+[![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fthe-firehub-project.github.io%2F?style=flat&labelColor=30363d)](https://the-firehub-project.github.io/)
 
 This repository contains the source code of the official FireHub website.
 
