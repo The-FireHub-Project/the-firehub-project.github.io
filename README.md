@@ -23,7 +23,7 @@ Read our [Support](https://github.com/The-FireHub-Project/.github/blob/master/.g
 ![GitHub forks](https://img.shields.io/github/forks/The-FireHub-Project/the-firehub-project.github.io?style=social)
 
 - Be sure to review the [Code of Conduct](https://github.com/The-FireHub-Project/.github/blob/master/.github/CODE_OF_CONDUCT.md).
-- Read [Contributing](https://github.com/The-FireHub-Project/.github/blob/master/.github/CONTRIBUTING.md) file to see how you can contribute to this project.
+- Read a [Contributing](https://github.com/The-FireHub-Project/.github/blob/master/.github/CONTRIBUTING.md) file to see how you can contribute to this project.
 - Read our [Security policy](https://github.com/The-FireHub-Project/.github/blob/master/.github/SECURITY.md) file to see how you can report a vulnerability.
 
 ## Authors and Contributors
