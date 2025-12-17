@@ -1,7 +1,7 @@
 # Set default behavior to automatically normalize line endings
 * text=auto eol=lf
 
-# Enable keyword expansion for legacy identifiers ($Id$)
+# Enable keyword expansion for legacy identifiers
 * ident
 
 # Exclude files and folders from Git archive downloads
