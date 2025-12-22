@@ -33,12 +33,12 @@
   /></a>
   <a href="https://github.com/The-FireHub-Project/the-firehub-project.github.io/">
     <img
-      src="https://img.shields.io/github/languages/count/The-FireHub-Project/the-firehub-project.github.io?style=flat&logo=github&logoColor=959da5&label=language%20count&labelColor=31373e"
+      src="https://img.shields.io/github/languages/count/The-FireHub-Project/the-firehub-project.github.io?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjOTU5ZGE1Ij48cGF0aCBkPSJNMzIwLTI0MCA4MC00ODBsMjQwLTI0MCA1NyA1Ny0xODQgMTg0IDE4MyAxODMtNTYgNTZabTMyMCAwLTU3LTU3IDE4NC0xODQtMTgzLTE4MyA1Ni01NiAyNDAgMjQwLTI0MCAyNDBaIi8+PC9zdmc+&logoColor=959da5&label=language%20count&labelColor=31373e"
       alt="GitHub language count"
   /></a>
   <a href="https://github.com/The-FireHub-Project/the-firehub-project.github.io/">
     <img
-      src="https://img.shields.io/github/languages/top/The-FireHub-Project/the-firehub-project.github.io?style=flat&logo=github&logoColor=959da5&label=top%20language&labelColor=31373e"
+      src="https://img.shields.io/github/languages/top/The-FireHub-Project/the-firehub-project.github.io?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjOTU5ZGE1Ij48cGF0aCBkPSJNMzIwLTI0MCA4MC00ODBsMjQwLTI0MCA1NyA1Ny0xODQgMTg0IDE4MyAxODMtNTYgNTZabTMyMCAwLTU3LTU3IDE4NC0xODQtMTgzLTE4MyA1Ni01NiAyNDAgMjQwLTI0MCAyNDBaIi8+PC9zdmc+&logoColor=959da5&label=top%20language&labelColor=31373e"
       alt="GitHub top language"
   /></a>
   <a href="https://github.com/The-FireHub-Project/the-firehub-project.github.io/actions/workflows/pages/pages-build-deployment">
