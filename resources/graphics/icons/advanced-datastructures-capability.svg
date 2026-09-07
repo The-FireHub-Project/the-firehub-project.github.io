@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 588 588" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="firehubAdvancedDataStructuresCapabilityIcon">
+  <title id="firehubAdvancedDataStructuresCapabilityiCON">Firehub Advanced DataStructuresCapability Icon</title>
+  <style>
+    .color {fill: #d50000;}
+    .stroke {stroke: #d50000; stroke-linecap: round;}
+  </style>
+  <g class="stroke" style="fill: none">
+    <circle style="stroke-width: 28px;" cx="294" cy="294" r="280"/>
+    <circle style="stroke-width: 14px;" cx="294" cy="294" r="210"/>
+    <path style="stroke-width: 12px;" d="M294,124v40"/>
+    <path style="stroke-width: 12px;" d="M294,164l-70,60"/>
+    <path style="stroke-width: 12px;" d="M294,164l70,60"/>
+    <path style="stroke-width: 10px;" d="M224,224l-40,80"/>
+    <path style="stroke-width: 10px;" d="M224,224l40,80"/>
+    <path style="stroke-width: 10px;" d="M364,224l-40,80"/>
+    <path style="stroke-width: 10px;" d="M364,224l40,80"/>
+    <path style="stroke-width: 8px;" d="M184,304l-30,70"/>
+    <path style="stroke-width: 8px;" d="M184,304l25,70"/>
+    <path style="stroke-width: 8px;" d="M324,304l-15,70"/>
+    <path style="stroke-width: 8px;" d="M404,304l-25,70"/>
+    <path style="stroke-width: 8px;" d="M404,304l25,70"/>
+    <path style="stroke-width: 12px;" d="M294,504v-90l15-40"/>
+    <path style="stroke-width: 12px;" d="M294,84v40"/>
+  </g>
+  <g class="color stroke">
+    <rect style="stroke-width: 10px;" x="274" y="104" width="40" height="40" rx="8" ry="8"/>
+    <rect style="stroke-width: 10px;" x="204" y="204" width="40" height="40" rx="8" ry="8"/>
+    <rect style="stroke-width: 10px;" x="344" y="204" width="40" height="40" rx="8" ry="8"/>
+    <rect style="stroke-width: 10px;" x="164" y="284" width="40" height="40" rx="8" ry="8"/>
+    <rect style="stroke-width: 10px;" x="244" y="284" width="40" height="40" rx="8" ry="8"/>
+    <rect style="stroke-width: 10px;" x="304" y="284" width="40" height="40" rx="8" ry="8"/>
+    <rect style="stroke-width: 10px;" x="384" y="284" width="40" height="40" rx="8" ry="8"/>
+    <rect style="stroke-width: 8px;" x="136" y="359" width="36" height="36" rx="6" ry="6"/>
+    <rect style="stroke-width: 8px;" x="191" y="359" width="36" height="36" rx="6" ry="6"/>
+    <rect style="stroke-width: 8px;" x="291" y="359" width="36" height="36" rx="6" ry="6"/>
+    <rect style="stroke-width: 8px;" x="361" y="359" width="36" height="36" rx="6" ry="6"/>
+    <rect style="stroke-width: 8px;" x="411" y="359" width="36" height="36" rx="6" ry="6"/>
+  </g>
+</svg>
